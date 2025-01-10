@@ -1,0 +1,16 @@
+input_paths:
+  - dir: "./a_folder"
+    number_of_days: 3
+    pattern: "*.csv"
+
+  - dir: "./b_folder"
+    number_of_days: 5
+    pattern: "b_*.csv"
+
+  - dir: "./c_folder"
+    number_of_days: 9
+    pattern: "c_**01**.csv"
+
+  - dir: "./d_folder"
+    number_of_days: 4
+    pattern: "**2024**.csv"
