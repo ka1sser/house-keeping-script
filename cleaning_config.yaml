@@ -9,8 +9,8 @@ input_paths:
 
   - dir: "./c_folder"
     number_of_days: 9
-    pattern: "c_**01**.csv"
+    pattern: "*01*.csv"
 
   - dir: "./d_folder"
     number_of_days: 4
-    pattern: "**2024**.csv"
+    pattern: "d_2025011*.csv"
