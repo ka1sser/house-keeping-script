@@ -1,0 +1,392 @@
+2025-01-13 12:30:36,688 - INFO - a_20241224.csv matches *.csv
+2025-01-13 12:30:36,688 - WARNING - Deleting file: a_20241224.csv
+2025-01-13 12:30:36,688 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,692 - INFO - a_20241225.csv matches *.csv
+2025-01-13 12:30:36,692 - WARNING - Deleting file: a_20241225.csv
+2025-01-13 12:30:36,692 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,695 - INFO - a_20241226.csv matches *.csv
+2025-01-13 12:30:36,696 - WARNING - Deleting file: a_20241226.csv
+2025-01-13 12:30:36,696 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,697 - INFO - a_20241227.csv matches *.csv
+2025-01-13 12:30:36,698 - WARNING - Deleting file: a_20241227.csv
+2025-01-13 12:30:36,698 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,705 - INFO - a_20241228.csv matches *.csv
+2025-01-13 12:30:36,705 - WARNING - Deleting file: a_20241228.csv
+2025-01-13 12:30:36,705 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,707 - INFO - a_20241229.csv matches *.csv
+2025-01-13 12:30:36,707 - WARNING - Deleting file: a_20241229.csv
+2025-01-13 12:30:36,707 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,707 - INFO - a_20241230.csv matches *.csv
+2025-01-13 12:30:36,707 - WARNING - Deleting file: a_20241230.csv
+2025-01-13 12:30:36,707 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,711 - INFO - a_20241231.csv matches *.csv
+2025-01-13 12:30:36,711 - WARNING - Deleting file: a_20241231.csv
+2025-01-13 12:30:36,711 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,714 - INFO - a_20250101.csv matches *.csv
+2025-01-13 12:30:36,714 - WARNING - Deleting file: a_20250101.csv
+2025-01-13 12:30:36,714 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,716 - INFO - a_20250102.csv matches *.csv
+2025-01-13 12:30:36,716 - WARNING - Deleting file: a_20250102.csv
+2025-01-13 12:30:36,716 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,718 - INFO - a_20250103.csv matches *.csv
+2025-01-13 12:30:36,719 - WARNING - Deleting file: a_20250103.csv
+2025-01-13 12:30:36,719 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,722 - INFO - a_20250104.csv matches *.csv
+2025-01-13 12:30:36,722 - WARNING - Deleting file: a_20250104.csv
+2025-01-13 12:30:36,723 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,726 - INFO - a_20250105.csv matches *.csv
+2025-01-13 12:30:36,726 - WARNING - Deleting file: a_20250105.csv
+2025-01-13 12:30:36,726 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,729 - INFO - a_20250106.csv matches *.csv
+2025-01-13 12:30:36,729 - WARNING - Deleting file: a_20250106.csv
+2025-01-13 12:30:36,729 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,731 - INFO - a_20250107.csv matches *.csv
+2025-01-13 12:30:36,731 - WARNING - Deleting file: a_20250107.csv
+2025-01-13 12:30:36,731 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,734 - INFO - a_20250108.csv matches *.csv
+2025-01-13 12:30:36,735 - WARNING - Deleting file: a_20250108.csv
+2025-01-13 12:30:36,735 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,738 - INFO - a_20250109.csv matches *.csv
+2025-01-13 12:30:36,738 - WARNING - Deleting file: a_20250109.csv
+2025-01-13 12:30:36,738 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,741 - INFO - a_20250110.csv matches *.csv
+2025-01-13 12:30:36,741 - WARNING - Deleting file: a_20250110.csv
+2025-01-13 12:30:36,741 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,745 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\a_folder...
+2025-01-13 12:30:36,745 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,746 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\a_folder...
+2025-01-13 12:30:36,746 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,747 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\a_folder...
+2025-01-13 12:30:36,747 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,747 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\a_folder...
+2025-01-13 12:30:36,747 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,747 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\a_folder...
+2025-01-13 12:30:36,747 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,747 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\a_folder...
+2025-01-13 12:30:36,747 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,747 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\a_folder...
+2025-01-13 12:30:36,747 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,747 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\a_folder...
+2025-01-13 12:30:36,747 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,747 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\a_folder...
+2025-01-13 12:30:36,747 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,747 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\a_folder...
+2025-01-13 12:30:36,747 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,747 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\a_folder...
+2025-01-13 12:30:36,747 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,747 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\a_folder...
+2025-01-13 12:30:36,747 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,760 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\a_folder...
+2025-01-13 12:30:36,760 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,761 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\a_folder...
+2025-01-13 12:30:36,761 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,761 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\a_folder...
+2025-01-13 12:30:36,761 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,761 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\a_folder...
+2025-01-13 12:30:36,761 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,761 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\a_folder...
+2025-01-13 12:30:36,761 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,761 - INFO - b_20241224.csv matches b_*.csv
+2025-01-13 12:30:36,761 - WARNING - Deleting file: b_20241224.csv
+2025-01-13 12:30:36,761 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,767 - INFO - b_20241225.csv matches b_*.csv
+2025-01-13 12:30:36,768 - WARNING - Deleting file: b_20241225.csv
+2025-01-13 12:30:36,768 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,769 - INFO - b_20241226.csv matches b_*.csv
+2025-01-13 12:30:36,769 - WARNING - Deleting file: b_20241226.csv
+2025-01-13 12:30:36,769 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,769 - INFO - b_20241227.csv matches b_*.csv
+2025-01-13 12:30:36,769 - WARNING - Deleting file: b_20241227.csv
+2025-01-13 12:30:36,769 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,769 - INFO - b_20241228.csv matches b_*.csv
+2025-01-13 12:30:36,769 - WARNING - Deleting file: b_20241228.csv
+2025-01-13 12:30:36,769 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,776 - INFO - b_20241229.csv matches b_*.csv
+2025-01-13 12:30:36,776 - WARNING - Deleting file: b_20241229.csv
+2025-01-13 12:30:36,776 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,779 - INFO - b_20241230.csv matches b_*.csv
+2025-01-13 12:30:36,780 - WARNING - Deleting file: b_20241230.csv
+2025-01-13 12:30:36,780 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,780 - INFO - b_20241231.csv matches b_*.csv
+2025-01-13 12:30:36,780 - WARNING - Deleting file: b_20241231.csv
+2025-01-13 12:30:36,780 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,780 - INFO - b_20250101.csv matches b_*.csv
+2025-01-13 12:30:36,780 - WARNING - Deleting file: b_20250101.csv
+2025-01-13 12:30:36,784 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,786 - INFO - b_20250102.csv matches b_*.csv
+2025-01-13 12:30:36,786 - WARNING - Deleting file: b_20250102.csv
+2025-01-13 12:30:36,786 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,787 - INFO - b_20250103.csv matches b_*.csv
+2025-01-13 12:30:36,787 - WARNING - Deleting file: b_20250103.csv
+2025-01-13 12:30:36,787 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,788 - INFO - b_20250104.csv matches b_*.csv
+2025-01-13 12:30:36,788 - WARNING - Deleting file: b_20250104.csv
+2025-01-13 12:30:36,788 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,788 - INFO - b_20250105.csv matches b_*.csv
+2025-01-13 12:30:36,791 - WARNING - Deleting file: b_20250105.csv
+2025-01-13 12:30:36,791 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,792 - INFO - b_20250106.csv matches b_*.csv
+2025-01-13 12:30:36,792 - WARNING - Deleting file: b_20250106.csv
+2025-01-13 12:30:36,792 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,792 - INFO - b_20250107.csv matches b_*.csv
+2025-01-13 12:30:36,792 - WARNING - Deleting file: b_20250107.csv
+2025-01-13 12:30:36,792 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,792 - INFO - b_20250108.csv matches b_*.csv
+2025-01-13 12:30:36,797 - WARNING - Deleting file: b_20250108.csv
+2025-01-13 12:30:36,797 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,799 - INFO - b_20250109.csv matches b_*.csv
+2025-01-13 12:30:36,799 - WARNING - Deleting file: b_20250109.csv
+2025-01-13 12:30:36,799 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,799 - INFO - b_20250110.csv matches b_*.csv
+2025-01-13 12:30:36,799 - WARNING - Deleting file: b_20250110.csv
+2025-01-13 12:30:36,799 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,803 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\b_folder...
+2025-01-13 12:30:36,803 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,803 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\b_folder...
+2025-01-13 12:30:36,803 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,803 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\b_folder...
+2025-01-13 12:30:36,803 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,803 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\b_folder...
+2025-01-13 12:30:36,803 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,803 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\b_folder...
+2025-01-13 12:30:36,803 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,807 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\b_folder...
+2025-01-13 12:30:36,807 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,807 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\b_folder...
+2025-01-13 12:30:36,807 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,807 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\b_folder...
+2025-01-13 12:30:36,807 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,807 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\b_folder...
+2025-01-13 12:30:36,807 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,807 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\b_folder...
+2025-01-13 12:30:36,807 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,807 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\b_folder...
+2025-01-13 12:30:36,807 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,807 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\b_folder...
+2025-01-13 12:30:36,807 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,807 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\b_folder...
+2025-01-13 12:30:36,807 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,812 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\b_folder...
+2025-01-13 12:30:36,812 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,812 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\b_folder...
+2025-01-13 12:30:36,812 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,812 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\b_folder...
+2025-01-13 12:30:36,812 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,812 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\b_folder...
+2025-01-13 12:30:36,812 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,812 - INFO - c_20250101.csv matches *01*.csv
+2025-01-13 12:30:36,812 - WARNING - Deleting file: c_20250101.csv
+2025-01-13 12:30:36,812 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,812 - INFO - c_20250102.csv matches *01*.csv
+2025-01-13 12:30:36,812 - WARNING - Deleting file: c_20250102.csv
+2025-01-13 12:30:36,812 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,817 - INFO - c_20250103.csv matches *01*.csv
+2025-01-13 12:30:36,817 - WARNING - Deleting file: c_20250103.csv
+2025-01-13 12:30:36,817 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,817 - INFO - c_20250104.csv matches *01*.csv
+2025-01-13 12:30:36,817 - WARNING - Deleting file: c_20250104.csv
+2025-01-13 12:30:36,817 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,821 - INFO - c_20250105.csv matches *01*.csv
+2025-01-13 12:30:36,821 - WARNING - Deleting file: c_20250105.csv
+2025-01-13 12:30:36,821 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,825 - INFO - c_20250106.csv matches *01*.csv
+2025-01-13 12:30:36,825 - WARNING - Deleting file: c_20250106.csv
+2025-01-13 12:30:36,825 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,825 - INFO - c_20250107.csv matches *01*.csv
+2025-01-13 12:30:36,825 - WARNING - Deleting file: c_20250107.csv
+2025-01-13 12:30:36,825 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,827 - INFO - c_20250108.csv matches *01*.csv
+2025-01-13 12:30:36,827 - WARNING - Deleting file: c_20250108.csv
+2025-01-13 12:30:36,827 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,829 - INFO - c_20250109.csv matches *01*.csv
+2025-01-13 12:30:36,829 - WARNING - Deleting file: c_20250109.csv
+2025-01-13 12:30:36,829 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,829 - INFO - c_20250110.csv matches *01*.csv
+2025-01-13 12:30:36,829 - WARNING - Deleting file: c_20250110.csv
+2025-01-13 12:30:36,829 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,833 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\c_folder...
+2025-01-13 12:30:36,833 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,833 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\c_folder...
+2025-01-13 12:30:36,833 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,833 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\c_folder...
+2025-01-13 12:30:36,833 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,833 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\c_folder...
+2025-01-13 12:30:36,833 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,837 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\c_folder...
+2025-01-13 12:30:36,837 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,837 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\c_folder...
+2025-01-13 12:30:36,837 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,837 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\c_folder...
+2025-01-13 12:30:36,837 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,837 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\c_folder...
+2025-01-13 12:30:36,837 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,837 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\c_folder...
+2025-01-13 12:30:36,837 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,837 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\c_folder...
+2025-01-13 12:30:36,837 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,843 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\c_folder...
+2025-01-13 12:30:36,843 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,843 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\c_folder...
+2025-01-13 12:30:36,843 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,843 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\c_folder...
+2025-01-13 12:30:36,843 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,843 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\c_folder...
+2025-01-13 12:30:36,843 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,843 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\c_folder...
+2025-01-13 12:30:36,843 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,847 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\c_folder...
+2025-01-13 12:30:36,847 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,847 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\c_folder...
+2025-01-13 12:30:36,847 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,847 - INFO - d_20250110.csv matches d_2025011*.csv
+2025-01-13 12:30:36,847 - WARNING - Deleting file: d_20250110.csv
+2025-01-13 12:30:36,847 - INFO - File successfully deleted.
+
+2025-01-13 12:30:36,852 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\d_folder...
+2025-01-13 12:30:36,852 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,852 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\d_folder...
+2025-01-13 12:30:36,852 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,852 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\d_folder...
+2025-01-13 12:30:36,852 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,852 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\d_folder...
+2025-01-13 12:30:36,852 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,852 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\d_folder...
+2025-01-13 12:30:36,852 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,852 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\d_folder...
+2025-01-13 12:30:36,852 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,857 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\d_folder...
+2025-01-13 12:30:36,857 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,858 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\d_folder...
+2025-01-13 12:30:36,858 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,858 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\d_folder...
+2025-01-13 12:30:36,858 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,858 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\d_folder...
+2025-01-13 12:30:36,858 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,858 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\d_folder...
+2025-01-13 12:30:36,858 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,858 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\d_folder...
+2025-01-13 12:30:36,858 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,858 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\d_folder...
+2025-01-13 12:30:36,858 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,858 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\d_folder...
+2025-01-13 12:30:36,858 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,858 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\d_folder...
+2025-01-13 12:30:36,858 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,863 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\d_folder...
+2025-01-13 12:30:36,863 - WARNING - No files matching the pattern.
+
+2025-01-13 12:30:36,863 - INFO - Checking C:\Users\eserkai\OneDrive - Ericsson\Documents\Programming\Python\Training\house-keeping-script\d_folder...
+2025-01-13 12:30:36,863 - WARNING - No files matching the pattern.
+

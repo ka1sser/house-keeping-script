@@ -14,3 +14,6 @@ input_paths:
   - dir: "./d_folder"
     number_of_days: 4
     pattern: "d_2025011*.csv"
+
+log_file:
+    path: "./logs"
