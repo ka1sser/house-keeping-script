@@ -6,7 +6,7 @@ old from the current date.
 import os
 import yaml
 from datetime import datetime, timedelta
-import re
+import glob
 
 with open("./cleaning_config.yaml", "r") as file:
     config = yaml.safe_load(file)
@@ -35,12 +35,11 @@ for folder in folders:
     old_date = current_date - timedelta(days=number_of_days[folder_index])
     formatted_old_date = old_date.strftime("%Y%m%d")
 
-    pattern = f"r'{patterns[folder_index]}'"
-
+    pattern = patterns[folder_index]
+    
     for filename in os.listdir(folder):
-        match = re.match(pattern, filename)
+        print(f"Checking if {filename} matches {pattern}")
+        files = glob.glob(os.path.join(folder, pattern))
         
-        if match:
-
-            date_str = match.group(1)
-            print(date_str)
+        for file in files:
+            os.remove(file)
