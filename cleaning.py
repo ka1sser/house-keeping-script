@@ -25,7 +25,7 @@ time_logger = logging.getLogger("TimeBasedLogger")
 time_logger.setLevel(logging.INFO)
 
 #Change when and interval depending on the need
-time_handler = TimedRotatingFileHandler(log_file_path, when="s", interval=30, backupCount=7)
+time_handler = TimedRotatingFileHandler(log_file_path, when="s", interval=5, backupCount=7)
 time_handler.suffix = "%Y-%m-%d_%H-%M-%S.log"
 formatter = logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")
 time_handler.setFormatter(formatter)
@@ -67,21 +67,13 @@ for folder in folders:
         for filename in os.listdir(folder):
             
             files = glob.glob(os.path.join(folder, pattern))
-
-            if not files:
-                time_logger.info(f"Checking {folder}...")
-                time_logger.warning("No files matching the pattern.\n")
-
-            else:
-                for file in files:
-                    time_logger.info(f"{os.path.basename(file)} matches {pattern}")
+            
+            for file in files:
+                if os.path.join(folder,filename) not in files:
+                    time_logger.warning(f"{filename} does not match the [{pattern}] pattern.")
+                    time_logger.info("Skipping...\n")
+                else:
+                    time_logger.info(f"{os.path.basename(file)} matches the [{pattern}] pattern.")
                     time_logger.warning(f"Deleting file: {os.path.basename(file)}")
                     time_logger.info("File successfully deleted.\n")
                     os.remove(file)
-        
-
-    
-
-
-        
-    
