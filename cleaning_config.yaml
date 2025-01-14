@@ -2,18 +2,22 @@ input_paths:
   - dir: "C:/Users/eserkai/OneDrive - Ericsson/Documents/Programming/Python/Training/house-keeping-script/a_folder"
     number_of_days: 3
     pattern: "*.csv"
+    operation: "DELETE"
 
   - dir: "C:/Users/eserkai/OneDrive - Ericsson/Documents/Programming/Python/Training/house-keeping-script/b_folder"
     number_of_days: 5
     pattern: "b_*.csv"
+    operation: "ZIP"
 
   - dir: "C:/Users/eserkai/OneDrive - Ericsson/Documents/Programming/Python/Training/house-keeping-script/c_folder"
     number_of_days: 9
     pattern: "*01*.csv"
+    operation: "ZIP"
 
   - dir: "C:/Users/eserkai/OneDrive - Ericsson/Documents/Programming/Python/Training/house-keeping-script/d_folder"
     number_of_days: 4
     pattern: "d_2025011*.csv"
-
+    operation: "DELETE"
+    
 log_file:
     path: "C:/Users/eserkai/OneDrive - Ericsson/Documents/Programming/Python/Training/house-keeping-script/logs"

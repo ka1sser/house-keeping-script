@@ -43,6 +43,9 @@ def load_patterns(config):
                 patterns.append(dict.get(key))
     return patterns
 
+def delete_file(file):
+    os.remove(file)
+
 def main():
     config = load_yaml()
 
@@ -79,7 +82,7 @@ def main():
                     time_logger.info(f"{os.path.basename(file)} matches the [{pattern}] pattern.")
                     time_logger.warning(f"Deleting file: {os.path.basename(file)}")
                     time_logger.info("File successfully deleted.\n")
-                    os.remove(file)
+                    delete_file(file)
 
 if __name__ == "__main__":
     time_logger = logging.getLogger("TimeBasedLogger")
@@ -97,4 +100,11 @@ if __name__ == "__main__":
     time_handler.setFormatter(formatter)
     time_logger.addHandler(time_handler)
     
+    time_logger.info("------------------------------------------------------------------------")
+    time_logger.info("Housekeeping script called...")
+    time_logger.info("------------------------------------------------------------------------")
     main()
+    time_logger.info("------------------------------------------------------------------------")
+    time_logger.info("Housekeeping script exited...")
+    time_logger.info("------------------------------------------------------------------------")
+    
