@@ -68,19 +68,18 @@ def main():
                 time_logger.info("Skipping...\n")
         
         else:
-
-            for filename in os.listdir(folder):
-                files = glob.glob(os.path.join(folder, pattern))
-                
-                for file in files:
-                    if os.path.join(folder,filename) not in files:
-                        time_logger.warning(f"{filename} does not match the [{pattern}] pattern.")
-                        time_logger.info("Skipping...\n")
-                    else:
-                        time_logger.info(f"{os.path.basename(file)} matches the [{pattern}] pattern.")
-                        time_logger.warning(f"Deleting file: {os.path.basename(file)}")
-                        time_logger.info("File successfully deleted.\n")
-                        os.remove(file)
+            all_files = [os.path.join(folder, f) for f in os.listdir(folder)]
+            matching_files = glob.glob(os.path.join(folder, pattern))
+            
+            for file in all_files:
+                if file not in matching_files:
+                    time_logger.warning(f"{os.path.basename(file)} does not match the [{pattern}] pattern.")
+                    time_logger.info("Skipping...\n")
+                else:
+                    time_logger.info(f"{os.path.basename(file)} matches the [{pattern}] pattern.")
+                    time_logger.warning(f"Deleting file: {os.path.basename(file)}")
+                    time_logger.info("File successfully deleted.\n")
+                    os.remove(file)
 
 if __name__ == "__main__":
     time_logger = logging.getLogger("TimeBasedLogger")
