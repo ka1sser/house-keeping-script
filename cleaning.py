@@ -9,6 +9,7 @@ from datetime import datetime, timedelta
 import glob
 import logging
 from logging.handlers import TimedRotatingFileHandler
+import zipfile
 
 def load_yaml():
     with open("./cleaning_config.yaml", "r") as file:
@@ -43,8 +44,23 @@ def load_patterns(config):
                 patterns.append(dict.get(key))
     return patterns
 
+def load_operations(config):
+    operations = []
+    for dict in config["input_paths"]:
+        for key in dict.keys():
+            if key == "operation":
+                operations.append(dict.get(key))
+    return operations
+
 def delete_file(file):
     os.remove(file)
+
+def zip_files(files, output_zip):
+    with zipfile.ZipFile(output_zip, 'w', zipfile.ZIP_DEFLATED) as zipf:
+        for file in files:
+            arcname = os.path.basename(file)
+            zipf.write(file, arcname=arcname)
+
 
 def main():
     config = load_yaml()
@@ -55,6 +71,7 @@ def main():
     folders = load_folders(config)
     number_of_days = load_number_of_days(config)
     patterns = load_patterns(config)
+    operations = load_operations(config)
 
     for folder in folders:
 
@@ -64,25 +81,42 @@ def main():
         formatted_old_date = old_date.strftime("%Y%m%d")
 
         pattern = patterns[folder_index]
+        operation = operations[folder_index]
 
+        time_logger.info(f"Performing operation on:\n{folder}")
+        if operation == "DELETE":
+            time_logger.warning(f"Operation: {operation}\n")
+        else:
+            time_logger.info(f"Operation: {operation}\n")
+            
         if not os.listdir(folder):
                 time_logger.info(f"Checking {folder}...")
                 time_logger.warning(f"Folder is empty!")
                 time_logger.info("Skipping...\n")
-        
+
         else:
             all_files = [os.path.join(folder, f) for f in os.listdir(folder)]
             matching_files = glob.glob(os.path.join(folder, pattern))
-            
+
             for file in all_files:
+                
                 if file not in matching_files:
                     time_logger.warning(f"{os.path.basename(file)} does not match the [{pattern}] pattern.")
                     time_logger.info("Skipping...\n")
                 else:
-                    time_logger.info(f"{os.path.basename(file)} matches the [{pattern}] pattern.")
-                    time_logger.warning(f"Deleting file: {os.path.basename(file)}")
-                    time_logger.info("File successfully deleted.\n")
-                    delete_file(file)
+                    if operation == "DELETE":
+                        time_logger.info(f"{os.path.basename(file)} matches the [{pattern}] pattern.")
+                        time_logger.warning(f"Deleting file: {os.path.basename(file)}")
+                        time_logger.info("File successfully deleted.\n")
+                        delete_file(file)
+                    if operation == "ZIP":
+                        zip_folder_name = datetime.now().strftime("%Y-%m-%d_%H-%M-%S-archive_files.zip")
+                        zip_dir = os.path.join(folder, zip_folder_name)
+
+                        time_logger.info(f"{os.path.basename(file)} matches the [{pattern}] pattern.")
+                        time_logger.info(f"Zipping file {os.path.basename(file)}")
+                        zip_files(matching_files, zip_dir)
+                        time_logger.info(f"File successfully added to zip folder {zip_dir}.\n")
 
 if __name__ == "__main__":
     time_logger = logging.getLogger("TimeBasedLogger")
@@ -102,7 +136,7 @@ if __name__ == "__main__":
     
     time_logger.info("------------------------------------------------------------------------")
     time_logger.info("Housekeeping script called...")
-    time_logger.info("------------------------------------------------------------------------")
+    time_logger.info("------------------------------------------------------------------------\n")
     main()
     time_logger.info("------------------------------------------------------------------------")
     time_logger.info("Housekeeping script exited...")
