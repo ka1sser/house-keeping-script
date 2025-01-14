@@ -1,19 +1,19 @@
 input_paths:
-  - dir: "./a_folder"
+  - dir: "C:/Users/eserkai/OneDrive - Ericsson/Documents/Programming/Python/Training/house-keeping-script/a_folder"
     number_of_days: 3
     pattern: "*.csv"
 
-  - dir: "./b_folder"
+  - dir: "C:/Users/eserkai/OneDrive - Ericsson/Documents/Programming/Python/Training/house-keeping-script/b_folder"
     number_of_days: 5
     pattern: "b_*.csv"
 
-  - dir: "./c_folder"
+  - dir: "C:/Users/eserkai/OneDrive - Ericsson/Documents/Programming/Python/Training/house-keeping-script/c_folder"
     number_of_days: 9
     pattern: "*01*.csv"
 
-  - dir: "./d_folder"
+  - dir: "C:/Users/eserkai/OneDrive - Ericsson/Documents/Programming/Python/Training/house-keeping-script/d_folder"
     number_of_days: 4
     pattern: "d_2025011*.csv"
 
 log_file:
-    path: "./logs"
+    path: "C:/Users/eserkai/OneDrive - Ericsson/Documents/Programming/Python/Training/house-keeping-script/logs"
